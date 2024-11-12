@@ -31,7 +31,7 @@ Top Categories: Presented the top-performing categories using bar and pie charts
 
 Supplementary Insights: Added visualizations for category distribution, reaction counts, and monthly posting trends.
 
-![Screenshot Description](https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/4d6105526cc36189d01fe55913873b5d6bcf5694/Images/Screenshot%20(1).png)
+![Screenshot Description](https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/4d6105526cc36189d01fe55913873b5d6bcf5694/Images/Reaction.png)
 
 <img src="https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/4d6105526cc36189d01fe55913873b5d6bcf5694/Images/Screenshot%20(1).png" alt="Screenshot Description" width="500" height="300"/>
 
