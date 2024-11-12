@@ -17,8 +17,7 @@ Top 5 Categories:
 Calculated total scores for each content category to determine the top 5 performers.
 Applied conditional formulas to sum reactions by category.
 
-![Content Reactions](https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/5b49f317c874772e7edc12693bf13b4b735709cb/Images/Reaction.png)
-<img src="https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/5b49f317c874772e7edc12693bf13b4b735709cb/Images/Reaction.png" alt="Content Reactions" width="600" height="400"/>
+<img src="https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/625d938b4978e10b339d00369a3ee5e0fa847bd2/Images/top_categories.png" alt="Content Reactions" width="600" height="400"/>
 
 Additional Insights:
 
