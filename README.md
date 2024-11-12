@@ -17,6 +17,8 @@ Top 5 Categories:
 Calculated total scores for each content category to determine the top 5 performers.
 Applied conditional formulas to sum reactions by category.
 
+![Project Diagram](screenshot (33).png)
+
 Additional Insights:
 
 Determined the number of unique categories.
