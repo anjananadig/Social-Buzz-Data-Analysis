@@ -33,7 +33,7 @@ Supplementary Insights: Added visualizations for category distribution, reaction
 
 ![Screenshot Description](https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/17ae98a2834e7379950d3a9e65242d7ed036c6d3/Images/Performance%20report.png)
 
-<img src="https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/17ae98a2834e7379950d3a9e65242d7ed036c6d3/Images/Performance%20report.png" alt="Screenshot Description" width="500" height="300"/>
+<img src="https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/17ae98a2834e7379950d3a9e65242d7ed036c6d3/Images/Performance%20report.png" alt="Screenshot Description" width="900" height="500"/>
 
 
 Results
