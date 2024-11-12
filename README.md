@@ -5,7 +5,7 @@ A project simulation for Accenture's client, Social Buzz, focused on analyzing a
 Project Overview
 This project merges multiple data sets, calculates key metrics, and visualizes the top 5 content categories. The client, Social Buzz, aims to understand the performance of different content categories, trends in reaction types, and other insights to drive engagement strategies.
 
-Key Objectives
+#Key Objectives
 Data Modeling:
 
 Merged three data sets: Reaction, Content, and Reaction Types tables.
