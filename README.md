@@ -18,7 +18,7 @@ Calculated total scores for each content category to determine the top 5 perform
 Applied conditional formulas to sum reactions by category.
 
 ![Content Reactions](https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/5b49f317c874772e7edc12693bf13b4b735709cb/Images/Reaction.png)
-<img src="https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/5b49f317c874772e7edc12693bf13b4b735709cb/Images/Reaction.png" alt="Content Reactions" width="500" height="300"/>
+<img src="https://github.com/anjananadig/Social-Buzz-Data-Analysis/blob/5b49f317c874772e7edc12693bf13b4b735709cb/Images/Reaction.png" alt="Content Reactions" width="600" height="400"/>
 
 Additional Insights:
 
